@@ -9,6 +9,7 @@ body{
     text-align: center;
     background-color: black;
     color: white;
+    overflow-x: hidden;
 }
 .menu-icon{
     font-size: 24px;
